@@ -36,7 +36,7 @@
         </jar>
 
     </target>
-	<target name="compile">
+	<target name="test">
     		<echo message="Compiling source code"/>
 	</target>
 </project>
