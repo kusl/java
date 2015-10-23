@@ -5,6 +5,6 @@ public class HelloWorld {
 		System.out.println(returnZero());
 	}
 	private static int returnZero() {
-
+		return 0;
 	}
 }
