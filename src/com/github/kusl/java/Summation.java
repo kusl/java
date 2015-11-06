@@ -4,8 +4,13 @@ public class Summation implements Runnable {
     private int upper;
     private Sum sumValue;
     public Summation(int upper, Sum sumValue){
-        this.upper = upper;
-        this.sumValue = sumValue;
+        if (upper < 99999999) {
+            this.upper = upper;
+            this.sumValue = sumValue;
+        }
+        else {
+            throw new UnsupportedOperationException();
+        }
     }
     public void run(){
         int sum = 0;
