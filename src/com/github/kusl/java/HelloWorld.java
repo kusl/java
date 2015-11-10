@@ -10,8 +10,8 @@ public class HelloWorld {
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-            Runnable contestant = new Person(i);
-            new Thread(contestant).start();
+            Runnable person = new Person(i);
+            new Thread(person).start();
         }
     }
 }
