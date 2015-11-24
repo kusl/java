@@ -1,18 +1,18 @@
-We will now sleep for about 86 nano seconds.
-We will now sleep for about 65 nano seconds.
-[0] class com.github.kusl.java.Person-0: started
-We will now sleep for about 73 nano seconds.
-[65] class com.github.kusl.java.Person-1: started
-We will now sleep for about 33 nano seconds.
-[138] class com.github.kusl.java.Person-2: started
-We will now sleep for about 33 nano seconds.
-[171] class com.github.kusl.java.Person-3: started
-We will now sleep for about 52 nano seconds.
-[204] class com.github.kusl.java.Person-4: started
-We will now sleep for about 17 nano seconds.
-[256] class com.github.kusl.java.Person-5: started
-We will now sleep for about 22 nano seconds.
-[273] class com.github.kusl.java.Person-6: started
-We will now sleep for about 25 nano seconds.
-[295] class com.github.kusl.java.Person-7: started
-[320] class com.github.kusl.java.Person-8: started
+0
+1
+[1] class com.github.kusl.java.Person-0: started
+2
+[10] class com.github.kusl.java.Person-1: started
+3
+[20] class com.github.kusl.java.Person-2: started
+4
+[30] class com.github.kusl.java.Person-3: started
+5
+[40] class com.github.kusl.java.Person-4: started
+6
+[50] class com.github.kusl.java.Person-5: started
+7
+[60] class com.github.kusl.java.Person-6: started
+8
+[70] class com.github.kusl.java.Person-7: started
+[80] class com.github.kusl.java.Person-8: started
